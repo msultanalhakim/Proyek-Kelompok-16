@@ -11,10 +11,10 @@
 </head>
 
 <body>
-    <<<<<<< HEAD <<<<<<< HEAD <h1>Belajar GitHub</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, saepe vitae. Sequi sed maxime iusto
-            tenetur! Assumenda consectetur nemo doloremque, ad sapiente voluptatibus nobis impedit porro, hi28aga,
-            consequatur non.</p>
+    <h1>Belajar GitHub</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, saepe vitae. Sequi sed maxime iusto
+        tenetur! Assumenda consectetur nemo doloremque, ad sapiente voluptatibus nobis impedit porro, hi28aga,
+        consequatur non.</p>
 </body>
 
 </html>
