@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <<<<<<< HEAD <<<<<<< HEAD=======<title>Belajar github </title>
-        >>>>>>> 919058506c354a77b09b5b850b4fdfc11be6ec18
-        =======
-        >>>>>>> 4663ecd5f502d12dabff37b7719b02bbb938d28a
+    <title>Percobaan GitHub</title>
 </head>
 
 <body>
@@ -18,4 +15,3 @@
 </body>
 
 </html>
-=======
